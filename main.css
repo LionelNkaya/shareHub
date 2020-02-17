@@ -1,0 +1,34 @@
+body {
+  background-color: #f4f4f4;
+}
+
+.row {
+  border: 1px solid #000;
+}
+
+.p-box {
+  border: 1px solid #000;
+}
+
+.p-box h2 {
+  text-align: center;
+}
+
+textarea {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+    width: 100%;
+}
+
+::placeholder {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.twitter-share-button {
+  position: relative;
+  text-align: center;
+}

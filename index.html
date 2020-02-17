@@ -2,16 +2,43 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/4.3.1/bootstrap.min.js">
+    <link rel="stylesheet" href="main.css">
     <title>shareHub</title>
   </head>
   <body>
+    <div id="fb-root"></div>
     <div class="container-fluid">
     <h1>shareHub</h1>
-    <br>
     <h2>Your ideas on your favorite social media</h2>
+    <br>
+    <br>
+    <div class="container">
+      <textarea id="story" name="story" placeholder="Paste your link or your text here"></textarea>
     </div>
-  </body>
-  <!-- Scripts -->
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <br>
+    <br>
+    <br>
+    <div class="container">
+    <div class="row">
+    <div class="col-sm">
+    <a id="tweetThat" class="twitter-share-button" href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-show-count="false">Tweet</a>
+    </div>
+    <div class="col-sm">
+<div class="fb-share-button" data-href="https://developers.facebook.com/docs/plugins/" data-layout="button" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
+   </div>
+   <div class="col-sm">
+   <a data-pin-do="buttonBookmark" data-pin-tall="true" data-pin-round="true" target="_blank" href="https://www.pinterest.com/pin/create/button/"><img src="https://assets.pinterest.com/images/pidgets/pinit_fg_en_round_red_32.png"></a>
+  </div>
+ </div>
+   </div>
+</div>
+
+    <!-- Scripts -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <script async defer src="https://assets.pinterest.com/js/pinit.js"></script>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0"></script>
+    </body>
 </html>
