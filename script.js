@@ -8,4 +8,12 @@ document.getElementById("shareHubPage").onchange = (function() {
     tweetThatButton.href = "https://twitter.com/intent/tweet?text=" + contentToShare;
   });
 
+  //Facebook
+  var facebookThatButton = document.getElementById("facebookThatButton");
+
+  facebookThatButton.onclick = (function() {
+    facebookThatButton.href = "https://www.facebook.com/sharer/sharer.php?u=" + contentToShare;
+  });
+
+
 });
