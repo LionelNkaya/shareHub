@@ -15,8 +15,5 @@ document.getElementById("shareHubPage").onchange = (function() {
     facebookThatButton.href = "https://www.facebook.com/sharer/sharer.php?u=" + contentToShare;
   });
 
-<<<<<<< HEAD
 
-=======
->>>>>>> facebook
 });
