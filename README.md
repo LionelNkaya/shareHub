@@ -7,4 +7,4 @@ The idea of shareHub is to create a webpage that allows people to share a post o
 When you share with shareHub after you shared, your social media page closes so tat you can share your ideas with the world without loosing innumerable hours scrolling through content.
 
 Enjoy! and God bless.
-�
+
