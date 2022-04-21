@@ -1,4 +1,4 @@
-#[shareHub](https://sharehub.lionelnkaya.com/) 
+# [ShareHub](https://sharehub.lionelnkaya.com/) 
 
 Have you ever wanted to share to Facebook or Twitter but feel like every time you do connect to this platforms you end up spending a lot more time than what you wanted/expected?
 
