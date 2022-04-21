@@ -1,6 +1,7 @@
 # [ShareHub](https://sharehub.lionelnkaya.com/) 
 
-ShareHub is a project that was inspired by this [Ted Talk](https://youtu.be/trVzyG4zFMU)
+ShareHub is a project that was inspired by this [Ted Talk: A year offline, what I have learned | Paul Miller | TEDxEutropolis](https://youtu.be/trVzyG4zFMU).
+
 Have you ever wanted to share to Facebook or Twitter but feel like every time you do connect to this platforms you end up spending a lot more time than what you wanted/expected?
 
 The idea of shareHub is to create a webpage that allows people to share a post on social media: Twitter (tweets) & Facebook (links to content) without scrolling through their account.
